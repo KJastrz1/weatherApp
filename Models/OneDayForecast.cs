@@ -17,8 +17,8 @@ public class Headline
     public int Severity { get; set; }
     public string Text { get; set; }
     public string Category { get; set; }
-    public DateTime EndDate { get; set; }
-    public long EndEpochDate { get; set; }
+    public DateTime? EndDate { get; set; }
+    public long? EndEpochDate { get; set; }
     public string MobileLink { get; set; }
     public string Link { get; set; }
 }

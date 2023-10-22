@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace P04WeatherForecastAPI.Client.Services
 {
-    internal class AccuWeatherService
+    internal class AccuWeatherService : IAccuWeatherService
     {
         //private static readonly HttpClient client = new HttpClient();
         private const string base_url = "http://dataservice.accuweather.com";

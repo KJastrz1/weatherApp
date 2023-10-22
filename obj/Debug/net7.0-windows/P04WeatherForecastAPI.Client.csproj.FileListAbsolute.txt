@@ -4,11 +4,14 @@ C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.runtimeconfig.json
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.dll
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.pdb
+C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
@@ -19,6 +22,7 @@ C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\App.g.cs
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client_MarkupCompile.cache
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client_MarkupCompile.lref
+C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\App.baml
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\MainWindow.baml
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.g.resources
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.GeneratedMSBuildEditorConfig.editorconfig
@@ -31,3 +35,4 @@ C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.pdb
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.genruntimeconfig.cache
 C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\ref\P04WeatherForecastAPI.Client.dll
+C:\Users\kris102\Desktop\sem5\pamiw\lab1\L1-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.sourcelink.json
