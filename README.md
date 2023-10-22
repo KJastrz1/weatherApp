@@ -1,2 +1,1 @@
 # weatherApp
-# app-mvvm
